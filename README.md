@@ -1,2 +1,3 @@
-# babel-preset
-Quelques presets de base Babel
+# babel-preset-osiki
+
+Définit les presets babel utilisés dans Osiki.
